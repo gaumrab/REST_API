@@ -2,7 +2,7 @@
 I am uploading my  REST API project to Git. This API performs fundamental CRUD operations, including creating, reading, updating, and deleting data. In developing this project, I utilized various npm packages, such as UUID and Method-Override, along with the Express framework to facilitate the functionality.
 
 ## Overview
-This is my first REST API project, designed to perform basic CRUD (Create, Read, Update, Delete) operations. It serves as a foundational application to understand RESTful principles and API development.
+This is my  REST API project, designed to perform basic CRUD (Create, Read, Update, Delete) operations. It serves as a foundational application to understand RESTful principles and API development.
 
 ## Features
 - **Create**: Add new data entries.
